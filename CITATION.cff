@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "LakotaV6: Hybrid Adaptive Architecture"
+title: "Lakota: An AI without Transformers and similar stuff"
 authors:
-  - family-names: "iandk-labs"
+  - name: "iandk-labs"
     given-names: "Lakota"
-    website: "https://github.com/iandk-labs/LakotaV6"
+    website: "https://github.com/iandk-labs/Lakota"
 doi: "10.5281/zenodo.22112265"
-repository-code: "https://github.com/iandk-labs/LakotaV6"
+repository-code: "https://github.com/iandk-labs/Lakota"
 url: "https://doi.org/10.5281/zenodo.22112266"
-abstract: "LakotaV6 is a hybrid adaptive architecture designed for low-resource GPU environments. A post-transformer approach developed outside the Temple of Idiocracy. Archived at CERN."
+abstract: "Lakota is a hybrid adaptive architecture designed for low-resource GPU environments. A post-transformer approach developed outside the Temple of Idiocracy. Archived at CERN."
 keywords:
   - artificial-intelligence
   - hybrid-architecture
@@ -16,5 +16,5 @@ keywords:
   - low-vram
   - post-transformer
 license: "AGPL-3.0-only"
-version: "6.0-hybrid-1"
-date-released: "2026-05-13"
+version: "12.6"
+date-released: "2026-10-10"
